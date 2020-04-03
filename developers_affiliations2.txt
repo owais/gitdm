@@ -17664,7 +17664,7 @@ ovorobio: ovorobio!redhat.com
 	Red Hat
 owainlewis: owain!owainlewis.com, owain.lewis!oracle.com, owainlewis!users.noreply.github.com
 	Oracle
-owais: hello!owaislone.org, loneowais!gmail.com, owais!lone.pw, owais!omnition.io, owais!users.noreply.github.com
+owais: hello!owaislone.org, loneowais!gmail.com, owais!lone.pw, owais!omnition.io, olone!splunk.com, owais!users.noreply.github.com
 	Vetted until 2015-07-01
 	ezhome from 2015-07-01 until 2018-05-01
 	Omnition from 2018-05-01 until 2019-09-01
